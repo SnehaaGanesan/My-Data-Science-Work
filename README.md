@@ -1,3 +1,3 @@
 # Data-Science
-Foundations Of Data Science Course Work
-Contains the Course Assignments
+1 Foundations Of Data Science Course Work
+2 Contains the Course Assignments
