@@ -1,2 +1,3 @@
 # Data-Science
-1 Foundations Of Data Science Projects
+Foundations Of Data Science Course Work
+Contains the Course Assignments
