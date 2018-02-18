@@ -1,5 +1,7 @@
 # Data-Science
 
-Foundations Of Data Science Course Work
+Foundations Of Data Science 
 
-Contains the Course Assignments
+Contains practice notebooks
+
+
